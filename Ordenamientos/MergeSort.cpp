@@ -48,6 +48,7 @@ void mergeSort(int* A, int n) {
 
 int main()
 {
+	//int a[] = {10, 5, 2, 6, 8, 9, 1, 3};
 	int *a = new int[8]{10, 5, 2, 6, 8, 9, 1, 3};
 	int n = 8;
 	mergeSort(a, n); 
