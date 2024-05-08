@@ -43,6 +43,8 @@ void mergeSort(int* A, int n) {
 		mergeSort(A1, mitad);
 		mergeSort(A2, n - mitad);
 		Merge(A1, A2, A, n);
+		delete[] A1;
+		delete[] A2;
 	}
 }
 
@@ -56,6 +58,7 @@ int main()
 	{
 		cout << a[i]<<" ";
 	}
+	delete[] a;
 	system("pause");
 	return 0;
 }
