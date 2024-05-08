@@ -1,2 +1,2 @@
 # Data_Structure_U
-Breve resumen de avanzado durante todo el curso
+Breve resumen de lo avanzado durante todo el curso de algoritmos y estructura de datos ⛳
