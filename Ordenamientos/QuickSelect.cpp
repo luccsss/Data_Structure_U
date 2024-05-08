@@ -1,4 +1,3 @@
-#include "pch.h"
 #include <iostream>
 //En general tiene una complejidad O(n), pero puede llegar a ser en el peor de los casos : O(n^2)
 using namespace std;
