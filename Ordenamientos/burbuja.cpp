@@ -1,4 +1,5 @@
-//Su complejidad es ser O(n^2) en el mejor y peor de los casos
+//Su complejidad en el mejor caso es O(n)
+// Suele ser O(n^2) en casos promedios y en el peor de los casos
 #include <iostream>
 
 using namespace std;
