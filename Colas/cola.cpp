@@ -1,3 +1,4 @@
+//Al eliminar un elemento se elimina el primer elemento agregado en la cola
 #include "Nodo.h"
 #include <iostream>
 using namespace std;
