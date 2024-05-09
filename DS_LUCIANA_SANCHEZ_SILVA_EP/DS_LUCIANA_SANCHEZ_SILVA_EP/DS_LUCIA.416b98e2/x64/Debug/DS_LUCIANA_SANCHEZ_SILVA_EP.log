@@ -1,0 +1,32 @@
+﻿  DS_LUCIANA_SANCHEZ_SILVA_EP.cpp
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\DS_LUCIANA_SANCHEZ_SILVA_EP.cpp(12,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(30,10): warning C4244: 'return': conversión de 'T' a 'int'; posible pérdida de datos
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(30,10): warning C4244:         with
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(30,10): warning C4244:         [
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(30,10): warning C4244:             T=float
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(30,10): warning C4244:         ]
+  (compilando archivo de origen "DS_LUCIANA_SANCHEZ_SILVA_EP.cpp")
+  C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(30,10):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\CControladora.h(30,40):
+  	Vea la referencia a la creación de una instancia de clase plantilla "Cerditos<float>" que se está compilando
+  	C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(29,6):
+  	al compilar la función del miembro clase plantilla "int Cerditos<float>::getEdad(void)"
+  		C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\CControladora.h(33,31):
+  		vea la primera referencia a “Cerditos<float>::getEdad” en “Ccontroladora::GenerarCerditos”
+  
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(17,18): warning C4244: '=': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(17,18): warning C4244:         with
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(17,18): warning C4244:         [
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(17,18): warning C4244:             T=float
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(17,18): warning C4244:         ]
+  (compilando archivo de origen "DS_LUCIANA_SANCHEZ_SILVA_EP.cpp")
+  C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(17,18):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\Cerditos.h(16,2):
+  	al compilar la función del miembro clase plantilla "Cerditos<float>::Cerditos(void)"
+  		C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\CControladora.h(30,34):
+  		vea la primera referencia a “Cerditos<float>::Cerditos” en “Ccontroladora::GenerarCerditos”
+  
+C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\ListaSimple.h(62,1): warning C4715: 'ListaSimple<Cerditos<float> *>::getNodoEnPosicion': no todas las rutas de acceso de control devuelven un valor
+  DS_LUCIANA_SANCHEZ_SILVA_EP.vcxproj -> C:\Users\LENOVO\Downloads\DS_LUCIANA_SANCHEZ_SILVA_EP\x64\Debug\DS_LUCIANA_SANCHEZ_SILVA_EP.exe
