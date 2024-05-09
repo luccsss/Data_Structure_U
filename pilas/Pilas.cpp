@@ -1,3 +1,4 @@
+//Al eliminar un elemento se elimina el ultimo elemento agregado en la pila
 #include "Nodo.h"
 using namespace std;
 
