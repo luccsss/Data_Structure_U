@@ -1,8 +1,3 @@
-// se debe usar en arreglos para que su complejidad sea lineal
-
-/*#include <iostream>
-using namespace std;
-*/
 
 int parent(int i) {
 	return (i - 1) / 2;
@@ -52,6 +47,3 @@ void heapsort(int A[], int n) {
 		maxHeapify(A, --n, 0);
 	}
 }
-
-#endif // !__HEAP_HPP__
-
